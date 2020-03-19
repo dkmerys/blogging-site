@@ -1,14 +1,58 @@
 .post {
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
+  border: 5px black;
 }
-h3.post{
-  font-family: 'Raleway', sans-serif;
+h3.post {
+  font-family: "Raleway", sans-serif;
   font-weight: bold;
   font-size: small;
+  margin-top: 15%;
+  margin-bottom: 15%;
+  border: 5px black;
 }
 p.post {
   font-size: small;
+  margin-top: 15%;
+  margin-bottom: 15%;
+  border: 5px solid black;
 }
 .about {
-  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: "Open Sans Condensed", sans-serif;
+  margin-top: 15%;
+  margin-bottom: 15%;
+  border: 5px black;
+}
+
+.box {
+  margin-top: 15%;
+  margin-bottom: 15%;
+  margin-left: 15%;
+  margin-right: 15%;
+  padding: 5%;
+  border: 5px black dashed;
+  background-color: thistle;
+}
+
+body {
+  background-color: teal;
+}
+#post1 {
+  padding: 10px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-family: "Raleway", sans-serif;
+}
+
+#post2 {
+  padding: 10px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-family: "Raleway", sans-serif;
+}
+
+#post3 {
+  padding: 10px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-family: "Raleway", sans-serif;
 }

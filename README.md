@@ -2,7 +2,7 @@
 
 #### _HTML Exercise for Epicodus, 03.19.2020_
 
-#### By _**Daniel Merys**_
+#### By _**Daniel Merys & Jozy Kinnaman**_
 
 ## Description
 
